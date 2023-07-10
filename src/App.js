@@ -1,11 +1,10 @@
 
-
+import RoutesApp from "./routes";
 
 function App() {
   return (
-    <div>
-      olá!
-    </div>
+    <RoutesApp/>
+    
   );
 }
 
