@@ -4,7 +4,7 @@
 function Sobre() {
   return (
     <div>
-     <h1> TESTE PROJETO!</h1>
+     <h1> Página sobre a empresa!</h1>
     </div>
   );
 }

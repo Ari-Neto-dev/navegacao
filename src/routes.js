@@ -6,8 +6,8 @@ function RoutesApp(){
   return(
     <BrowserRouter>
     <Routes>
-      <Route path="/" element={<home/>}/>
-      <Route path="/" element={<sobre/>}/>
+      <Route path="/" element={<Home/>}/>
+      <Route path="/sobre" element={<Sobre/>}/>
 
     </Routes>
 
